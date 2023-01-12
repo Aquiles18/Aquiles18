@@ -14,35 +14,35 @@ Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde
 
 ---
 
-![file_type_html_icon_130541.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/file_type_html_icon_130541.png)
+![html.png](img/html.png)
 
 ### HTML
 
-![file_type_css_icon_130661.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/file_type_css_icon_130661.png)
+![css.png](img/css.png)
 
 ### CSS
 
-![javascript.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/javascript.png)
+![javascript.png](img/javascript.png)
 
 ### JavaScript
 
-![sass.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/sass.png)
+![sass.png](img/sass.png)
 
 ### SASS
 
-![java.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/java.png)
+![java.png](img/java.png)
 
 ### Java
 
-![spring.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/spring.png)
+![spring.png](img/spring.png)
 
 ### Spring
 
-![file_type_php_icon_130266.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/file_type_php_icon_130266.png)
+![php.png](img/php.png)
 
 ### PHP
 
-![bbddSql.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/bbddSql.png)
+![bbddSql.png](img/bbddSql.png)
 
 ### SQL
 
@@ -50,27 +50,27 @@ Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde
 
 ---
 
-![vscode.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/vscode.png)
+![vscode.png](img/vscode.png)
 
 ### VS Code
 
-![vim.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/vim.png)
+![vim.png](img/vim.png)
 
 ### Vim
 
-![git.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/git.png)
+![git.png](img/git.png)
 
 ### Git
 
-![notion.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/notion.png)
+![notion.png](img/notion.png)
 
 ### Notion
 
-![eclipse.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/eclipse.png)
+![eclipse.png](img/eclipse.png)
 
 ### Eclipse
 
-![linuxTerminal.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/linuxTerminal.png)
+![linuxTerminal.png](img/linuxTerminal.png)
 
 ### Terminal
 
@@ -81,7 +81,7 @@ Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde
 ```jsx
 let contactoCarlos = {
 		email: 'c.lopemonre@gmail.com',
-		linkedIn: 'Perfil Linkedin',
+		linkedIn: 'linkedin.com/in/clmonreal',
 		whatsapp: '(+34) 665 48 58 04',
 		disponible: true
 }
