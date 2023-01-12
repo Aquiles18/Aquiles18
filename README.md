@@ -4,7 +4,7 @@
 
 ### Software Developer
 
-![image.png](Hola,%20mi%20nombre%20es%20Carlos%20Lo%CC%81pez%20%F0%9F%91%8B%F0%9F%8F%BE%20ee5f4011f1eb4e96871cf10e276a74f8/image.png)
+![image.png](img/image.png)
 
 Soy un apasionado del mundo del desarrollo software, y como tal, me dedico a aprender de forma autónoma e ininterrumpida nuevas tecnologías y a seguir llevando a la práctica aquellas que ya sé.
 
