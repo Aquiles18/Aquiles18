@@ -38,7 +38,7 @@ Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde
 let contactoCarlos = {
 		email: 'c.lopemonre@gmail.com',
 		linkedIn: 'linkedin.com/in/clmonreal',
-		whatsapp: '(+34) 665 48 58 04',
+		whatsApp: '(+34) 665 48 58 04',
 		disponible: true
 }
 ```
