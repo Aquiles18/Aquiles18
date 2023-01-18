@@ -10,7 +10,7 @@ Soy un apasionado del mundo del desarrollo software, y como tal, me dedico a apr
 Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde gracias al Trabajo Final de Grado pude descubrir mi gran pasión por la programación, desde entonces me he dedicado plenamente a dicha disciplina.
 
 
-## Tecnologías
+## <image src="/img/tecnologias.png" alt="Descripción de la imagen" width="30" height="30">&nbsp;&nbsp;Tecnologías
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -20,7 +20,7 @@ Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## Herramientas
+## <image src="/img/herramientas.png" alt="Descripción de la imagen" width="30" height="30">&nbsp;&nbsp;Herramientas
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
@@ -28,7 +28,7 @@ Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## Estadísticas
+## <image src="/img/estadisticas.png" alt="Descripción de la imagen" width="30" height="30">&nbsp;&nbsp;Estadísticas
 
 <!--enlace para buscar temas: https://github.com/anuraghazra/github-readme-stats/tree/master/themes-->
 
