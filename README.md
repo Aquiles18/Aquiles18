@@ -5,7 +5,7 @@
 
 ![image.png](img/image.png)
 
-Soy un apasionado del mundo del desarrollo software, y como tal, me dedico a aprender de forma autónoma e ininterrumpida nuevas tecnologías y a seguir llevando a la práctica aquellas que ya sé.
+Me apasiona el mundo del desarrollo software, y como tal, me dedico a aprender de forma autónoma e ininterrumpida nuevas tecnologías y a seguir llevando a la práctica aquellas que ya sé.
 
 Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde gracias al Trabajo Final de Grado pude descubrir mi gran pasión por la programación, desde entonces me he dedicado plenamente a dicha disciplina.
 
