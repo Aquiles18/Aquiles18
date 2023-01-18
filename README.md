@@ -36,4 +36,6 @@ Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde
 
 ## Contacto
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<p>
+<a href="https://www.linkedin.com/in/clmonreal/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
