@@ -34,7 +34,7 @@ Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clmonreal&layout=compact&theme=onedark)
 
-## Contacto
+## <image src="/img/contacto.png" alt="Descripción de la imagen" width="30" height="30">&nbsp;&nbsp;Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-clmonreal-%230077b5?style=for-the-badge&labelColor=010101)](https://www.linkedin.com/in/clmonreal/)<br>
 ![correo](https://img.shields.io/badge/Correo-c.lopemonre@gmail.com-d14836?style=for-the-badge&labelColor=010101)<br>
