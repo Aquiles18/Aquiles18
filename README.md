@@ -1,7 +1,7 @@
 # Hola, mi nombre es Carlos López 👋🏾
 
 
-### Software Developer
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&duration=3000&pause=1000&color=F7CC1A&background=B825FF00&vCenter=true&width=435&lines=Desarrollador+Software+en+proceso....)](https://git.io/typing-svg)
 
 ![image.png](img/image.png)
 
@@ -22,23 +22,18 @@ Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde
 
 ## Herramientas
 
-
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+## Estadísticas
+
+<!--enlace para buscar temas: https://github.com/anuraghazra/github-readme-stats/tree/master/themes-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clmonreal&layout=compact&theme=onedark)
 
 ## Contacto
 
-
-
-```jsx
-let contactoCarlos = {
-		email: 'c.lopemonre@gmail.com',
-		linkedIn: 'linkedin.com/in/clmonreal',
-		whatsApp: '(+34) 665 48 58 04',
-		disponible: true
-}
-```
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
