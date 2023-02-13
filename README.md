@@ -37,5 +37,5 @@ Realicé mis estudios en Ingeniería Electrónica Industrial y Automática donde
 ## <image src="/img/contacto.png" alt="Descripción de la imagen" width="30" height="30">&nbsp;&nbsp;Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-clmonreal-%230077b5?style=for-the-badge&labelColor=010101)](https://www.linkedin.com/in/clmonreal/)<br>
-![correo](https://img.shields.io/badge/Correo-c.lopemonre@gmail.com-d14836?style=for-the-badge&labelColor=010101)<br>
+[![correo](https://img.shields.io/badge/Correo-c.lopemonre@gmail.com-d14836?style=for-the-badge&labelColor=010101)](mailto:c.lopemonre@gmail.com)<br>
 ![numero](https://img.shields.io/badge/móvil-665485804-00897b?style=for-the-badge&labelColor=010101)
